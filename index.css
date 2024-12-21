@@ -1,0 +1,32 @@
+body{
+background-repeat: no-repeat;  
+background-position: center;  
+background-size: 1000px;
+padding-bottom: 500px;
+background-color: transparent;
+}
+fieldset{
+   width: 100px;
+   color: black;
+   background-color: rgb(213, 235, 135);
+   height: 400px;
+   align-self: center;
+   padding-right: 100px;
+   padding-left: 100px;
+
+}
+::placeholder{
+    opacity: 0.6px;
+    color: green;
+}
+input{
+    color: black;
+    text-align: center;
+}
+p1{
+    color: white;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+}
